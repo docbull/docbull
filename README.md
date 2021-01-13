@@ -1,4 +1,20 @@
-### Hi there 👋
+🌒  🌓  🌔  🌕  🌖  🌗  🌘 
+### 🐈‍⬛ Hi there! 
+Welcome to my repositories.   
+I'm majoring in Networking and Blockchain.  
+
+### 🌟 Research Interests 
+
+    Network 🌐  
+    Blockchain 💰   
+    Augmented Reality 🚀  
+
+### 📜 Ledger 
+    2020 ~ Dongguk Univ., INLab
+  
+🧙🏻‍♂️ 🇰🇷
+
+
 
 <!--
 **docbull/docbull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
