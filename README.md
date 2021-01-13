@@ -10,9 +10,9 @@ I'm majoring in Networking and Blockchain.
     Augmented Reality 🚀  
 
 ### 📜 Ledger 
-    2020 ~ Dongguk Univ., INLab
+    2020 ~ Dongguk Univ., INLab 🇰🇷
   
-🧙🏻‍♂️ 🇰🇷
+🧙🏻‍♂️
 
 
 
