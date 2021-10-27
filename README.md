@@ -6,7 +6,7 @@ I'm majoring in Networking and Blockchain.
 ### 🌟 Research Interests 
 
     Computer Networking 🌐  
-    Augmented Reality 🚀    
+    Extended Reality (XR) 🚀    
     Blockchain 💰     
 
 ### 📜 Ledger 
