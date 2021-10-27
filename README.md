@@ -5,12 +5,13 @@ I'm majoring in Networking and Blockchain.
 
 ### 🌟 Research Interests 
 
-    Network 🌐  
-    Blockchain 💰   
-    Augmented Reality 🚀  
+    Computer Networking 🌐  
+    Augmented Reality 🚀    
+    Blockchain 💰     
 
 ### 📜 Ledger 
     2020 ~ . INLab., Dongguk Univ. 🇰🇷
+     - Quick Block Transport System for Scalable Hyperledger Fabric Blockchain over D2D-assisted 5G Networks. IEEE Tr. on Network and Service Management. 2021.
   
 🧙🏻‍♂️
 
