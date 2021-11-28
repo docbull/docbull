@@ -1,7 +1,7 @@
 # 🌒  🌓  🌔  🌕  🌖  🌗  🌘 
 ### 🐈‍⬛ Hi there! 
 Welcome to my repositories.   
-I'm majoring in Networking and Blockchain.  
+I'm majoring in Computer Networking.  
 
 ### 🌟 Research Interests 
 
