@@ -11,7 +11,6 @@ I'm majoring in Computer Networking.
 
 ### 📜 Ledger 
     2020 ~ . INLab., Dongguk Univ. 🇰🇷
-     - Quick Block Transport System for Scalable Hyperledger Fabric Blockchain over D2D-assisted 5G Networks. IEEE TNSM. 2021.
   
 🧙🏻‍♂️
 
