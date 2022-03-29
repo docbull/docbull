@@ -1,11 +1,11 @@
 # 🌒  🌓  🌔  🌕  🌖  🌗  🌘 
 ### 🐈‍⬛ Hi there! 
 Welcome to my repositories.   
-I'm majoring in Computer Networking.  
+Feel free to look around what I uploaded to github  
 
 ### 🌟 Research Interests 
 
-    Computer Networking 🌐  
+    Computer Networking 🌐   
     Extended Reality (XR) 🚀    
     Blockchain 💰     
 
