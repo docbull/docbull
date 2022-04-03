@@ -1,13 +1,14 @@
 # 🌒  🌓  🌔  🌕  🌖  🌗  🌘 
 ### 🐈‍⬛ Hi there! 
 Welcome to my repositories.   
+Feel free to look around what I uploaded projects.
 
 ### 🌟 Research Interests 
 
-    Computer Networking 🌐   
-    Extended Reality (XR) 🚀    
     Blockchain 💰     
     Distributed System 💻      
+    Computer Networking 🌐   
+    Extended Reality (XR) 🚀    
 
 ### 📜 Ledger 
     2020 ~ . INLab., Dongguk Univ. 🇰🇷
