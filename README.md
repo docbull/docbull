@@ -10,9 +10,13 @@ Feel free to look around what I uploaded projects.
     Computer Networking 🌐   
     Extended Reality (XR) 🚀    
 
+### 🗂 NFT 
+    You can see my NFTs, which were uploaded on opensea.io in here:
+    https://opensea.io/collection/docbull-watson
+
 ### 📜 Ledger 
     2020 ~ . INLab., Dongguk Univ. 🇰🇷
-  
+
 🧙🏻‍♂️
 
 
