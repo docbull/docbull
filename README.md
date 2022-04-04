@@ -1,7 +1,7 @@
 # 🌒  🌓  🌔  🌕  🌖  🌗  🌘 
 ### 🐈‍⬛ Hi there! 
 Welcome to my repositories.   
-Feel free to look around what I uploaded projects.
+Feel free to look around what I did.
 
 ### 🌟 Research Interests 
 
