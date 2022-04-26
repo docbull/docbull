@@ -18,7 +18,8 @@ Feel free to look around what I did.
 ### 📜 Ledger 
     2020 ~ . INLab., Dongguk Univ. 🇰🇷
 
-🧙🏻‍♂️
+Wand + Spell = 🧙‍♂️    
+Computer + Developer = 🧙‍♂️
 
 
 
