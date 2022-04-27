@@ -26,7 +26,7 @@ https://opensea.io/collection/docbull-watson
 ###
 Formula that proves we are sorcerer:
 ```
-    Wand + Spell       = 🧙‍♂️    
+  Wand   +    Spell    = 🧙‍♂️
 Computer + Development = 🧙‍♂️
 ```
 
