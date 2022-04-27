@@ -5,22 +5,30 @@ Welcome to my repositories.
 Feel free to look around what I did.
 
 ### 🌟 Research Interests 
-
-    Blockchain 💰     
-    Distributed System 💻      
-    Computer Networking 🌐   
-    Extended Reality (XR) 🚀    
+```
+Blockchain 💰     
+Distributed System 💻      
+Computer Networking 🌐   
+Extended Reality (XR) 🚀
+```
 
 ### 🗂 NFT 
-    You can see my NFTs, which were uploaded on opensea.io in here:
-    https://opensea.io/collection/docbull-watson
+```
+You can see my NFTs, which were uploaded on opensea.io in here:
+https://opensea.io/collection/docbull-watson
+```
 
 ### 📜 Ledger 
-    2020 ~ . INLab., Dongguk Univ. 🇰🇷
+```
+2020 ~ . INLab., Dongguk Univ. 🇰🇷
+```
 
-Wand + Spell = 🧙‍♂️    
-Computer + Developer = 🧙‍♂️
-
+###
+Formula that proves we are sorcerer:
+```
+    Wand + Spell       = 🧙‍♂️    
+Computer + Development = 🧙‍♂️
+```
 
 
 <!--
