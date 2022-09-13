@@ -8,7 +8,7 @@ Feel free to look around what I did.
 ```
 Blockchain 💰
 Distributed System 💻
-Computer Networking 🌐
+Computer Networking 🌏
 Extended Reality (XR) 🚀
 ```
 
