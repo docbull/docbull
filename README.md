@@ -15,7 +15,7 @@ Extended Reality (XR) 🚀
 ### 📜 Ledger 
 ```
 2020 ~ . INLab., Dongguk Univ. 🇰🇷
-2022 ~ . A lead developer of DeNS
+2022 ~ . A lead developer of Retriever
 ```
 
 🧙‍♂️
