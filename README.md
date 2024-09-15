@@ -12,12 +12,6 @@ Computer Networking 🌏
 Extended Reality (XR) 🚀
 ```
 
-### 📜 Ledger 
-```
-2020 ~ 2023, INLab., Dongguk Univ. 🇰🇷
-2022 ~ . A lead developer of Retriever
-2023 ~ . DWeb., Incheon National Univ. 🇰🇷
-```
 <a href="https://retriever.live" target="_blank">
   <img src="https://user-images.githubusercontent.com/59289320/198165187-553615fb-682d-45df-962f-860b5ffc8710.png" width='3%'/>
 </a>
