@@ -4,12 +4,11 @@
 Welcome to my repositories.   
 Feel free to look around what I did.
 
-### 🌟 Research Interests
+### 🌟 Interests
 ```
 Blockchain 💰
 Distributed System 💻
 Computer Networking 🌏
-Extended Reality (XR) 🚀
 ```
 
 <a href="https://retriever.live" target="_blank">
